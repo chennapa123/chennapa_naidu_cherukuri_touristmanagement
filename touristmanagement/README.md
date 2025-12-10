@@ -29,3 +29,9 @@ Open the address shown by Vite (usually http://localhost:5173)
 - `services/api.js` — axios instance pointed at JSON-server
 
 Fill out and extend the components and routes per your project requirements.
+
+######## Book Tour is a Group Project done by 
+               # ch.chennapa naidu
+               # B.Harsha Vardhan
+               # T.Ram Charan
+               # G.Madhu Swapnika 
